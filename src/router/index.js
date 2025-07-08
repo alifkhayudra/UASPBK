@@ -5,7 +5,7 @@ import Mahasiswa from '../views/Mahasiswa.vue'
 import KRS from '../views/KRS.vue'
 import KHS from '../views/KHS.vue'
 import Jadwal from '../views/Jadwal.vue'
-import Matakuliah from '../views/Matakuliah.vue'
+import Matakuliah from '../views/MataKuliah.vue'
 import Laporan from '../views/Laporan.vue'
 import NotFound from '../views/NotFound.vue'
 
